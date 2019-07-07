@@ -1,0 +1,9 @@
+1. Extract zip file
+2. Copy that "Bus Ticket System" folder bundle into your c drive
+3. Create a mySQL database as "busticketreservationsystem"
+4. Import busticketreservationsystem.sql file into it
+5. Open the project by netbeens and run
+6. User account youwant to test must be created yourself
+7. An accoount for admin has already created and U can use it
+   Username :- admin
+   Password :- admin
